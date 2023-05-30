@@ -1,0 +1,100 @@
+[
+    {
+        "AlarmId": 2503,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1031,
+        "AlarmClass": "A",
+        "AlarmText": "Pump pit High-level float"
+    },
+    {
+        "AlarmId": 2504,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1057,
+        "AlarmClass": "A",
+        "AlarmText": "Pump 1 Fallen motor protector"
+    },
+    {
+        "AlarmId": 2511,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 650,
+        "AlarmClass": "E",
+        "AlarmText": "Pump 2 Relay"
+    },
+    {
+        "AlarmId": 2512,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 522,
+        "AlarmClass": "E",
+        "AlarmText": "Pump 1 Relay"
+    },
+    {
+        "AlarmId": 2527,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 10100,
+        "AlarmClass": "A",
+        "AlarmText": "Communication error"
+    },
+    {
+        "AlarmId": 2533,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1028,
+        "AlarmClass": "A",
+        "AlarmText": "System Personnel alarm"
+    },
+    {
+        "AlarmId": 2547,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1061,
+        "AlarmClass": "B",
+        "AlarmText": "Pump 1 High temperature"
+    },
+    {
+        "AlarmId": 2562,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1095,
+        "AlarmClass": "B",
+        "AlarmText": "Pump 2 Pump fail"
+    },
+    {
+        "AlarmId": 2737,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 1060,
+        "AlarmClass": "B",
+        "AlarmText": "Pump 1 Leakage"
+    },
+    {
+        "AlarmId": 2851,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 72,
+        "AlarmClass": "E",
+        "AlarmText": "DI9 High level float"
+    },
+    {
+        "AlarmId": 2859,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 655,
+        "AlarmClass": "E",
+        "AlarmText": "Pump 2"
+    },
+    {
+        "AlarmId": 2860,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 527,
+        "AlarmClass": "E",
+        "AlarmText": "Pump 1"
+    },
+    {
+        "AlarmId": 2861,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 680,
+        "AlarmClass": "E",
+        "AlarmText": "Pump 2 Reverse"
+    },
+    {
+        "AlarmId": 2862,
+        "Station": "Sulzer EC 531",
+        "AlarmNumber": 994,
+        "AlarmClass": "E",
+        "AlarmText": "Event number 994 is undefined"
+    }
+]

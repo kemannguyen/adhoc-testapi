@@ -114,7 +114,7 @@ app.MapGet("/status_summary", () =>
     //alarm id, event
     var activeAlarms = new Dictionary<int, int>();
 
-    //reverse for chronical order
+    //reverse for chronical order to correcly find how many alarms that are active
     foreach (var log in alarmLog.Reverse())
     {
         //handle currently active alarms
